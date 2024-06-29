@@ -1,0 +1,11 @@
+{
+    "icons": {
+        "account": "icon_account.png",
+        "card": "icon_card.png",
+        "transfer": "icon_transfer.png",
+        "scan": "icon_scan.png"
+    },
+    "images": {
+        "card": ""
+    }
+}
