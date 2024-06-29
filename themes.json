@@ -6,6 +6,11 @@
             "theme_url": "theme_art"
         },
         {
+            "theme_name": "Theme Animal",
+            "theme_tumbnail": "",
+            "theme_url": "theme_animal"
+        },
+        {
             "theme_name": "Theme Color",
             "theme_tumbnail": "",
             "theme_url": "theme_color"
