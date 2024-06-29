@@ -1,9 +1,14 @@
 {
     "themes": [
         {
-            "theme_name": "Khmer",
+            "theme_name": "Theme Khmer",
             "theme_tumbnail": "",
             "theme_url": "theme_khmer"
+        },
+        {
+            "theme_name": "Theme Chinese",
+            "theme_tumbnail": "",
+            "theme_url": "theme_chinese"
         }
     ]
 }
