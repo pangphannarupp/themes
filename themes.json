@@ -1,6 +1,11 @@
 {
     "themes": [
         {
+            "theme_name": "Programming",
+            "theme_thumbnail": "theme_programming/background.png",
+            "theme_url": "theme_programming"
+        },
+        {
             "theme_name": "ចូលឆ្នាំថ្មី",
             "theme_thumbnail": "theme_khmer_7/background.png",
             "theme_url": "theme_khmer_7"
