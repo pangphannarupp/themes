@@ -3,27 +3,27 @@
         {
             "theme_name": "Theme Olympic",
             "theme_tumbnail": "",
-            "theme_url": "theme_olympic"
+            "theme_url": "theme_olympic_2"
         },
         {
             "theme_name": "Theme Khmer Art",
             "theme_tumbnail": "",
-            "theme_url": "theme_khmer"
+            "theme_url": "theme_khmer_2"
         },
         {
             "theme_name": "Theme Animal",
             "theme_tumbnail": "",
-            "theme_url": "theme_animal"
+            "theme_url": "theme_animal_2"
         },
         {
             "theme_name": "Theme Color",
             "theme_tumbnail": "",
-            "theme_url": "theme_color"
+            "theme_url": "theme_color_2"
         },
         {
             "theme_name": "Theme Black",
             "theme_tumbnail": "",
-            "theme_url": "theme_black"
+            "theme_url": "theme_black_2"
         }
     ]
 }
