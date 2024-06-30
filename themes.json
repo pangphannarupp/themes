@@ -1,27 +1,27 @@
 {
     "themes": [
         {
-            "theme_name": "Theme Olympic",
+            "theme_name": "Olympic",
             "theme_thumbnail": "theme_olympic_3/background.png",
             "theme_url": "theme_olympic_3"
         },
         {
-            "theme_name": "Theme Khmer Art",
+            "theme_name": "Khmer Art",
             "theme_thumbnail": "theme_khmer_3/background.png",
             "theme_url": "theme_khmer_3"
         },
         {
-            "theme_name": "Theme Animal",
+            "theme_name": "Animal",
             "theme_thumbnail": "theme_animal_3/background.png",
             "theme_url": "theme_animal_3"
         },
         {
-            "theme_name": "Theme Color",
+            "theme_name": "Color",
             "theme_thumbnail": "theme_color_3/background.png",
             "theme_url": "theme_color_3"
         },
         {
-            "theme_name": "Theme Black",
+            "theme_name": "Black",
             "theme_thumbnail": "theme_black_3/background.png",
             "theme_url": "theme_black_3"
         }
