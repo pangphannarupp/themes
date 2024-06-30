@@ -1,6 +1,11 @@
 {
     "themes": [
         {
+            "theme_name": "Theme Olympic",
+            "theme_tumbnail": "",
+            "theme_url": "theme_olympic"
+        },
+        {
             "theme_name": "Theme Khmer Art",
             "theme_tumbnail": "",
             "theme_url": "theme_khmer"
