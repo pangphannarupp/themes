@@ -6,6 +6,11 @@
             "theme_url": "theme_olympic_3"
         },
         {
+            "theme_name": "Christmas",
+            "theme_thumbnail": "theme_christmas/background.png",
+            "theme_url": "theme_christmas"
+        },
+        {
             "theme_name": "Khmer Art",
             "theme_thumbnail": "theme_khmer_3/background.png",
             "theme_url": "theme_khmer_3"
@@ -14,16 +19,6 @@
             "theme_name": "Animal",
             "theme_thumbnail": "theme_animal_3/background.png",
             "theme_url": "theme_animal_3"
-        },
-        {
-            "theme_name": "Color",
-            "theme_thumbnail": "theme_color_3/background.png",
-            "theme_url": "theme_color_3"
-        },
-        {
-            "theme_name": "Black",
-            "theme_thumbnail": "theme_black_3/background.png",
-            "theme_url": "theme_black_3"
         }
     ]
 }
