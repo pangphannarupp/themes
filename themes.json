@@ -2,23 +2,23 @@
     "themes": [
         {
             "theme_name": "Olympic",
-            "theme_thumbnail": "theme_olympic_3/background.png",
-            "theme_url": "theme_olympic_3"
+            "theme_thumbnail": "theme_olympic_4/background.png",
+            "theme_url": "theme_olympic_4"
         },
         {
             "theme_name": "Christmas",
-            "theme_thumbnail": "theme_christmas/background.png",
-            "theme_url": "theme_christmas"
+            "theme_thumbnail": "theme_christmas_1/background.png",
+            "theme_url": "theme_christmas_1"
         },
         {
             "theme_name": "Khmer Art",
-            "theme_thumbnail": "theme_khmer_3/background.png",
-            "theme_url": "theme_khmer_3"
+            "theme_thumbnail": "theme_khmer_4/background.png",
+            "theme_url": "theme_khmer_4"
         },
         {
             "theme_name": "Animal",
-            "theme_thumbnail": "theme_animal_3/background.png",
-            "theme_url": "theme_animal_3"
+            "theme_thumbnail": "theme_animal_4/background.png",
+            "theme_url": "theme_animal_4"
         }
     ]
 }
