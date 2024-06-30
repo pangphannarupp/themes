@@ -1,6 +1,11 @@
 {
     "themes": [
         {
+            "theme_name": "Football",
+            "theme_thumbnail": "theme_football/background.png",
+            "theme_url": "theme_football"
+        },
+        {
             "theme_name": "Olympic",
             "theme_thumbnail": "theme_olympic_4/background.png",
             "theme_url": "theme_olympic_4"
