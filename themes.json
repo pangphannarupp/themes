@@ -1,6 +1,11 @@
 {
     "themes": [
         {
+            "theme_name": "ចូលឆ្នាំថ្មី",
+            "theme_thumbnail": "theme_khmer_6/background.png",
+            "theme_url": "theme_khmer_6"
+        },
+        {
             "theme_name": "Football",
             "theme_thumbnail": "theme_football/background.png",
             "theme_url": "theme_football"
@@ -14,11 +19,6 @@
             "theme_name": "Christmas",
             "theme_thumbnail": "theme_christmas_1/background.png",
             "theme_url": "theme_christmas_1"
-        },
-        {
-            "theme_name": "Khmer Art",
-            "theme_thumbnail": "theme_khmer_5/background.png",
-            "theme_url": "theme_khmer_5"
         },
         {
             "theme_name": "Animal",
